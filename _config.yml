@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: ""
-url: "https://pulsar.stevenstetzler.com"
+baseurl: "psr-obs"
+url: "https://stevenstetzler.com"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:

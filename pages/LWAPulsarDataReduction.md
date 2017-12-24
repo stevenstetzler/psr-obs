@@ -1,6 +1,7 @@
 ---
 layout: page
 title: LWA Pulsar Data Reduction Tutorial
+hide: true
 ---
 
 # LWA Pulsar Data Reduction Tutorial

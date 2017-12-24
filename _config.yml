@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "psr-obs"
+baseurl: "/psr-obs/"
 url: "https://stevenstetzler.com"
 
 # THEME-SPECIFIC CONFIGURATION

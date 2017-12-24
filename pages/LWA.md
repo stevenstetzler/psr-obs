@@ -1,6 +1,7 @@
 ---
 layout: page
 title: LWA
+order: 3
 ---
 
 This page contains links to information about the LWA. At the top, there should be [this](https://www.nasa.gov/images/content/512643main_LWA-1_Station_at_Sunset-43_946-710.jpg) image.

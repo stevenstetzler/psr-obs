@@ -19,15 +19,36 @@
     
     <!-- Menu -->
     <ul>
-        {% for page in site.pages %}
+	{% assign sorted_pages = site.pages | sort:"order" %}
+
+        {% for page in sorted_pages %}
+
         {% if page.title and page.hide != true %}
+
+	{% if page contains 'shortname' %}
+        <li>
+            <a class="clear" href="{{ page.url | relative_url }}">
+                {{ page.shortname }}
+            </a>
+        </li>
+	{% assign done = true %}
+        {% endif %}
+
+	{% if done != true %}
         <li>
             <a class="clear" href="{{ page.url | relative_url }}">
                 {{ page.title }}
             </a>
         </li>
+	{% endif %}
+
+	{% assign done = not_true %}
         {% endif %}
+
+
+
         {% endfor %} 
+
         {% if site.theme_settings.portfolio %}
         <li>
             <a class="clear" href="{{ site.url }}{{ site.baseurl }}/portfolio">

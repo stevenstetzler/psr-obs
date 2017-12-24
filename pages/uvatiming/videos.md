@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Video Recorded Sessions
+hide: true
 ---
 
 # Video recorded sessions from 2017

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Coding Tutorials
+hide: true
 ---
 
 # Coding tutorials for the UVA Pulsar Observation Group

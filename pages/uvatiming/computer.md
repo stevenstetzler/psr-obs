@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Computing Guide
+hide: true
 ---
 
 # Software to Install

@@ -1,3 +1,8 @@
+---
+layout: page
+title: Video Recorded Sessions
+---
+
 # Video recorded sessions from 2017
 
 ## Lecture 9 - Beyond Pulsar Timing

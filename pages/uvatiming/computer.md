@@ -1,3 +1,8 @@
+---
+layout: page
+title: Computing Guide
+---
+
 # Software to Install
 Make sure that you have each of the following software packages sucessfully installed before continuing.
 

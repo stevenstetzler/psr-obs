@@ -2,10 +2,11 @@
 layout: page
 title: LWA
 order: 3
+feature-img: "assets/img/lwa_crop.jpg"
 ---
 
-This page contains links to information about the LWA. At the top, there should be [this](https://www.nasa.gov/images/content/512643main_LWA-1_Station_at_Sunset-43_946-710.jpg) image.
-Links: 
-- https://lwalab.phys.unm.edu/CompScreen/cs.php
-- https://lwalab.phys.unm.edu/OpScreen/lwa1/os2.php
-- http://fornax.phys.unm.edu/lwa/validator/index.html
+We use station 1 of the [Long Wavelength Array](http://www.phys.unm.edu/~lwa/) to observe our pulsars. You can find here useful links to check the status of the LWA and its computing resources.
+
+- [Current Status of the LWA UCF](https://lwalab.phys.unm.edu/CompScreen/cs.php)
+- [Curent Observing Status of LWA1](https://lwalab.phys.unm.edu/OpScreen/lwa1/os2.php)
+- [Obvservation validator. Submit SDF files here!](http://fornax.phys.unm.edu/lwa/validator/index.html)

@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/psr-obs/"
+baseurl: "/psr-obs"
 url: "https://stevenstetzler.com"
 
 # THEME-SPECIFIC CONFIGURATION
@@ -20,7 +20,7 @@ theme_settings:
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: steven.stetzler@gmail.com # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:

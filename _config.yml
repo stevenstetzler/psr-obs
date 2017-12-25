@@ -6,7 +6,7 @@ url: "https://stevenstetzler.com"
 theme_settings:
   # Meta
   title: UVA Pulsar Observation Group
-  avatar: assets/img/triangle.svg
+  avatar: assets/img/logo.svg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
   description: "A website with blog posts and pages" # used by search engines
@@ -16,7 +16,7 @@ theme_settings:
      UVA Pulsar Observation Group
   header_text_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
-   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
+    &copy; Steven Stetzler
 
   # Icons
   rss: false

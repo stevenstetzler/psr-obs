@@ -1,6 +1,6 @@
 --- 
 layout: post
-type: video
+type: lecture
 title: Introduction to the Command Line
 hide: true
 panopto_id: 15d0bf0e-c9df-4343-be9b-306fc05de858

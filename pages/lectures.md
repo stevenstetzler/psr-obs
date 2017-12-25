@@ -1,5 +1,5 @@
 ---
 title: Lectures
-layout: videos
+layout: lectures
 hide: true
 ---

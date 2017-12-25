@@ -1,6 +1,6 @@
 --- 
 layout: post
-type: video
+type: lecture
 title: Beyond Pulsar Timing
 hide: true
 panopto_id: 48ba26c1-3223-4493-b2d6-772932ca13fd

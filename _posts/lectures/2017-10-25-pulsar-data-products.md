@@ -1,6 +1,6 @@
 --- 
 layout: post
-type: video
+type: lecture
 title: Working with Pulsar Data Products
 hide: true
 panopto_id: a659e951-e166-4e93-bbe6-346c13ee2135

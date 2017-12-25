@@ -1,6 +1,6 @@
 --- 
 layout: post
-type: video
+type: lecture
 title: LWA Pulsar Data Reduction
 hide: true
 panopto_id: bea523cc-aa3a-48a2-baf5-96b6a28ef878

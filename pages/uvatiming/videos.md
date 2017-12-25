@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: videos
 title: Video Recorded Sessions
 hide: true
 ---

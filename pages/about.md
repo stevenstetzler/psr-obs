@@ -12,7 +12,7 @@ Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://gith
 
 **Contact**
 
-Steven Stetzler: [sgs7cr@virginia.edu](mailto:sgs7cr@virginia.edu)
+Steven Stetzler: [steven.stetzler@gmail.com](mailto:steven.stetzler@gmail.com)
 
 Kevin Stovall: [kstovall@nrao.edu](mailto:kstovall@nrao.edu)
 

@@ -2,13 +2,13 @@
 layout: page
 title: Pulsars
 order: 2
-feature-img: "assets/img/pulsar.png"
+feature-img: "assets/img/pulsar.jpg"
 ---
 
 Pulsars are fascinating astronomical objects. They are the remnants from the death of stars, made from neutron matter (and possibly quark matter!), these stars spin anywhere from once per second to more than 1,000 times per second and emit beamed radio emission!
 
 For more technical detail about pulsars, check out these links:
-- [Ch. 6 of Essential Radio Astronomy](http://www.cv.nrao.edu/~sransom/web/Ch6.html) by [Scott Ransom](cv.nrao.edu/~sransom)
+- [Ch. 6 of Essential Radio Astronomy](http://www.cv.nrao.edu/~sransom/web/Ch6.html)
 - [Pulsars – Perfect Clocks for Physics](https://www.cifar.ca/assets/pulsars-perfect-clocks-for-physics/)
 - [Extraordinary Physics with Millisecond Pulsars](https://www.youtube.com/watch?v=I-r2vduO96A)
 

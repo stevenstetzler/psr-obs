@@ -1,4 +1,4 @@
 ---
 layout: videos
+hide: true
 ---
-

@@ -1,0 +1,5 @@
+.DS_Store
+*.gemspec
+Gemfile*
+.sass-cache
+_site

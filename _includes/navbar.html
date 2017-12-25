@@ -18,6 +18,34 @@
     </a>
     
     <!-- Menu -->
+    <!-- Uses new method of specified ordering in _data/navigation.yml -->
+        {% assign links = site.data.navigation %}
+        <ul>
+        {% for link in links %}
+                {% if link.sublinks %}
+                <li>
+                <div class="dropdown">
+                        <a href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a>
+                                <button class="dropbtn">
+                                </button>
+                        </a>
+
+                        <div class="dropdown-content">
+                        {% for sublink in link.sublinks %}
+                                <a href="{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a>
+                        {% endfor %}
+                        </div>
+                </div>
+                </li>
+		{% else %}
+                <li>
+                        <a href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a>
+                </li>
+                {% endif %}
+        {% endfor %}
+        </ul>
+
+    <!-- Old method using site's pages with specified ordering
     <ul>
 	{% assign sorted_pages = site.pages | sort:"order" %}
 
@@ -47,6 +75,19 @@
 
 
         {% endfor %} 
+	<li>
+	  <div class="dropdown">
+	    <a href="timing.html">
+	    <button class="dropbtn">Dropdown 
+	    </button>
+	    </a>
+	    <div class="dropdown-content">
+	      <a href="#">Link 1</a>
+	      <a href="#">Link 2</a>
+	      <a href="#">Link 3</a>
+	    </div>
+	  </div> 
+	</li>
 
         {% if site.theme_settings.portfolio %}
         <li>
@@ -71,6 +112,6 @@
         {% endif %}
         
     </ul>
-        
+        -->
 	</nav>
 </header>

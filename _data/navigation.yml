@@ -1,0 +1,13 @@
+- title: UVA Timing
+  url: /pages/timing.html
+  sublinks:
+    - title: Lectures
+      url: /pages/videos.html
+    - title: Tutorials
+      url: /pages/tutorials.html
+- title: Pulsars
+  url: /pages/pulsar.html
+- title: LWA
+  url: /pages/LWA.html
+- title: About
+  url: /pages/about.html

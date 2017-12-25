@@ -1,12 +1,12 @@
 ---
 layout: page
-title: UVA Timing Group
-shortname: UVA
+title: UVa Timing Group
+shortname: UVa Timing
 feature-img: 'assets/img/rotunda.jpg'
 order: 1
 ---
 
-Our group at the University of Virginia (UVA) is observing and timing a set 10 pulsars using station 1 of the Long Wavelength Array. Each pulsar of interest has either not been timed before or has an extremely old timing solution published for it. 
+Our group at the University of Virginia (UVa) is observing and timing a set 10 pulsars using station 1 of the Long Wavelength Array. Each pulsar of interest has either not been timed before or has an extremely old timing solution published for it. 
 
 Our group members are:
 
@@ -47,6 +47,5 @@ The list of pulsars and who is observing them is below:
 
 Observational data for each of these pulsars is stored on the [LWA Pulsar Archive](https://lda10g.alliance.unm.edu/PulsarArchive/).
 
-You can also find video recordings of our sessions with information and guided tutorials on using the LWA for pulsar observations and timing below.
+On our website, you can also find [video recordings](http://stevenstetzler.com/psr-obs/pages/videos.html) of our sessions with information and [guided tutorials](http://stevenstetzler.com/psr-obs/pages/tutorials.html) on using the LWA for pulsar observations and timing.
 
-Insert videos panel with link to videos like the cake thing in the sample. Same with coding tutorials.

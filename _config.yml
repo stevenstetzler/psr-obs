@@ -5,7 +5,7 @@ url: "https://stevenstetzler.com"
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: UVA Pulsar Observers
+  title: UVa Pulsar Observers
   avatar: assets/img/logo.svg
   favicon: assets/img/logo.png
   gravatar: # Email MD5 hash

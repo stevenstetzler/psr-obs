@@ -45,7 +45,7 @@
             float: left;
             margin-right: 0.4em;
         }
-        a, .dropdown-content, .dropbtn {
+        a, .dropdown, .dropdown-content, .dropbtn {
             &:hover {
                 color: $link-color;
             }
@@ -110,8 +110,33 @@
             position: relative;
         }
 
+        .dropbtn {
+            width: 100%;
+            text-align: right; 
+            float: right;
+            position: relative;
+        }
+
+        .dropdown-content {
+            
+            text-align: right; 
+            float: right;
+            position: relative;
+        }
+
+        .dropdown-content a {
+            text-align: right;
+        }
+
+        .dropdown {
+            width: 100%;
+            text-align: right;
+            float: right;
+            position: relative;
+        }
+
         a {
-            text-align: left;
+            text-align: right;
             width: 100%;
 
             &#pull {

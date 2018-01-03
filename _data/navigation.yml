@@ -1,6 +1,7 @@
-- title: UVa Timing
-  url: /pages/timing.html
+- title: UVa
   sublinks:
+    - title: Timing Group
+      url: /pages/timing.html
     - title: Lectures
       url: /pages/lectures.html
     - title: Tutorials

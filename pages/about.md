@@ -11,7 +11,7 @@ Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://gith
 
 **Contact**
 
-Steven Stetzler: [steven.stetzler@gmail.com](mailto:steven.stetzler@gmail.com)
+Steven Stetzler: [email](mailto:{{ 'steven.stetzler@gmail.com' | encode_email }})
 
-Kevin Stovall: [kstovall@nrao.edu](mailto:kstovall@nrao.edu)
+Kevin Stovall: [email](mailto:{{ 'kstovall@nrao.edu' | encode_email }})
 

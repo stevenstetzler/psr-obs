@@ -1,5 +1,5 @@
 .DS_Store
 *.gemspec
-Gemfile*
+Gemfile.lock
 .sass-cache
 _site

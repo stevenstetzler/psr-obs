@@ -3,6 +3,7 @@ layout: page
 title: UVa Timing Group
 shortname: UVa Timing
 feature-img: 'assets/img/rotunda.jpg'
+permalink: timing.html
 order: 1
 ---
 

@@ -3,6 +3,7 @@ layout: page
 title: Pulsars
 order: 2
 feature-img: "assets/img/pulsar.jpg"
+permalink: pulsar
 ---
 
 Pulsars are fascinating astronomical objects. They are the remnants from the death of stars, made from neutron matter (and possibly quark matter!), these stars spin anywhere from once per second to more than 1,000 times per second and emit beamed radio emission!

@@ -1,14 +1,14 @@
 - title: UVa
   sublinks:
     - title: Timing Group
-      url: /pages/timing.html
+      url: /timing
     - title: Lectures
-      url: /pages/lectures.html
+      url: /lectures
     - title: Tutorials
-      url: /pages/tutorials.html
+      url: /tutorials
 - title: Pulsars
-  url: /pages/pulsar.html
+  url: /pulsar
 - title: LWA
-  url: /pages/LWA.html
+  url: /LWA
 - title: About
-  url: /about/
+  url: /about

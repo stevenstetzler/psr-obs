@@ -2,7 +2,6 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "assets/img/portfolio/submarine.png"
 order: 4
 ---
 

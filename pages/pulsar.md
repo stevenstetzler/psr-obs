@@ -12,8 +12,6 @@ For more technical detail about pulsars, check out these links:
 - [Pulsars – Perfect Clocks for Physics](https://www.cifar.ca/assets/pulsars-perfect-clocks-for-physics/)
 - [Extraordinary Physics with Millisecond Pulsars](https://www.youtube.com/watch?v=I-r2vduO96A)
 
-![Neat gif of the structure of pulsars](../assets/img/pulsar_video.gif)
-
 ## Pulsar Timing
 Pulsar timing is the process of constructing a model for when a pulsar's next pulse of radiation will arrive at Earth. This process allows us to construct an extremely precise model of the pulsar's environment. You can find more information about pulsar timing and how to do it below:
 - [Ch. 6 Sec. 3 of Essential Radio Astronomy](http://www.cv.nrao.edu/~sransom/web/Ch6.html#S3)

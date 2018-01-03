@@ -5,9 +5,7 @@ permalink: /about
 order: 4
 ---
 
-This website is for the pulsar timing group at UVA.
-
-Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
+Feel free to reach out to either of the current organizers with questions.
 
 **Contact**
 

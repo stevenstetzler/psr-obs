@@ -18,4 +18,6 @@ Pulsar timing is the process of constructing a model for when a pulsar's next pu
 - [Ch. 6 Sec. 3 of Essential Radio Astronomy](http://www.cv.nrao.edu/~sransom/web/Ch6.html#S3)
 - [Our Lecture on Timing](http://stevenstetzler.com/psr_obs/videos/videos.html)
 - [Our Lecture on Timing in Practice](http://stevenstetzler.com/psr_obs/videos/videos.html)
+ 
 
+**Image credit**: [ESO/L. Calçada](https://www.eso.org/public/images/eso1319c/)

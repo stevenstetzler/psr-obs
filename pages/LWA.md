@@ -12,3 +12,5 @@ We use station 1 of the [Long Wavelength Array](http://www.phys.unm.edu/~lwa/) t
 - [Current Status of the LWA UCF](https://lwalab.phys.unm.edu/CompScreen/cs.php)
 - [Curent Observing Status of LWA1](https://lwalab.phys.unm.edu/OpScreen/lwa1/os2.php)
 - Submit SDF files: [LWA Observation Validator](http://fornax.phys.unm.edu/lwa/validator/index.html)
+
+**Image credit**: [LWA Project (at UNM)](https://www.nasa.gov/topics/universe/features/LWA-1_Sunset.html)

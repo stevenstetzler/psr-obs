@@ -48,5 +48,5 @@ The list of pulsars and who is observing them is below:
 
 Observational data for each of these pulsars is stored on the [LWA Pulsar Archive](https://lda10g.alliance.unm.edu/PulsarArchive/).
 
-On our website, you can also find [video recordings](http://stevenstetzler.com/psr-obs/pages/videos.html) of our sessions with information and [guided tutorials](http://stevenstetzler.com/psr-obs/pages/tutorials.html) on using the LWA for pulsar observations and timing.
+On our website, you can also find [video recordings]( {{ site.baseurl }}/psr-obs/lectures ) of our sessions with information and [guided tutorials]( {{ site.baseurl }}/psr-obs/tutorials ) on using the LWA for pulsar observations and timing.
 

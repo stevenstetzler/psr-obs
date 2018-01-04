@@ -3,7 +3,7 @@ layout: page
 title: LWA
 order: 3
 feature-img: "assets/img/lwa_crop.jpg"
-permalink: 'LWA.html'
+permalink: 'LWA'
 ---
 
 We use station 1 of the [Long Wavelength Array](http://www.phys.unm.edu/~lwa/) to observe our pulsars. You can find here useful links to check the status of the LWA and its computing resources.

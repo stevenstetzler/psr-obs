@@ -4,6 +4,7 @@ type: lecture
 title: Beyond Pulsar Timing
 hide: true
 panopto_id: 48ba26c1-3223-4493-b2d6-772932ca13fd
+permalink: lectures/beyond-timing
 ---
 
 ## Lecture 9 - Beyond Pulsar Timing

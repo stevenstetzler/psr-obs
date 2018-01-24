@@ -16,8 +16,8 @@ For more technical detail about pulsars, check out these links:
 ## Pulsar Timing
 Pulsar timing is the process of constructing a model for when a pulsar's next pulse of radiation will arrive at Earth. This process allows us to construct an extremely precise model of the pulsar's environment. You can find more information about pulsar timing and how to do it below:
 - [Ch. 6 Sec. 3 of Essential Radio Astronomy](http://www.cv.nrao.edu/~sransom/web/Ch6.html#S3)
-- [Our Lecture on Timing](http://stevenstetzler.com/psr_obs/videos/videos.html)
-- [Our Lecture on Timing in Practice](http://stevenstetzler.com/psr_obs/videos/videos.html)
+- [Our Lecture on Timing](lectures/pulsar-timing)
+- [Our Lecture on Timing in Practice](lectures/timing-in-practice)
  
 
 **Image credit**: [ESO/L. Calçada](https://www.eso.org/public/images/eso1319c/)

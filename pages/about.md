@@ -9,7 +9,7 @@ Feel free to reach out to either of the current organizers with questions.
 
 **Contact**
 
-Steven Stetzler: {% email steven.stetzler@gmail.com %}
+Steven Stetzler: [steven.stetzler@gmail.com](mailto:steven.stetzler@gmail.com)
 
-Kevin Stovall: {% email kstovall@nrao.edu %}
+Kevin Stovall: [kstovall@nrao.edu](mailto:kstovall@nrao.edu)
 

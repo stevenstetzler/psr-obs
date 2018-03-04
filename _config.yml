@@ -1,7 +1,7 @@
 # SITE CONFIGURATION
 baseurl: "/psr-obs-source"
 url: "https://stevenstetzler.com"
-destination: ""
+destination: "_site"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
@@ -91,6 +91,3 @@ plugins: [jekyll-paginate, jekyll-seo-tag]
 theme: type-on-strap # If using the theme as a jekyll theme gem
 exclude: ["Gemfile", "Gemfile.lock", "type-on-strap.gemspec", "*.gem", "LICENSE", "README.md", "screenshot.png"]
 
-# GEM PLUGINS
-gems:
-    - jekyll-email-protect

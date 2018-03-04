@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/psr-obs-source"
+baseurl: "/psr-obs"
 url: "https://stevenstetzler.com"
 destination: "_site"
 
